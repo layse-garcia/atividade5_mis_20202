@@ -13,7 +13,7 @@ Para imprimir mensagens utilizando a linguagem PHP, escreva:
 ```
 	echo 'Olá Mundo!';
 ```
-Concatenação de variáveis:
+Concatenação de variáveis, utilizando realce de sintaxe:
 ```php
 	$cumprimentar = 'Olá Mundo!';
 	$textoAuxiliar = 'Tudo bem com você?';
@@ -30,7 +30,8 @@ Concatenação de variáveis:
 	- Em 2013, cerca de 75% dos sites usavam PHP
 	- O mascote do PHP é um elefante
 
--[Ir para o site do PHP](https://www.php.net/)
--[Olhar versões do PHP](https://www.php.net/downloads)
+Links úteis:
+* [Ir para o site do PHP](https://www.php.net/)
+* [Olhar versões do PHP](https://www.php.net/downloads)
 
-Aqui terá uma imagem:
+![Imagem do PHP](https://www.geekproject.com.br/wp-content/uploads/2011/01/elephpant-elephant-php-logo.png)
