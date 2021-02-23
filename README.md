@@ -10,9 +10,15 @@ de tópicos(numerada ou não), _hyperlinks_ e **_imagem_**.
 **_A linguagem que será apresentada como exemplo é o PHP._**
 
 Para imprimir mensagens utilizando a linguagem PHP, escreva:
-'''
+```
 	echo 'Olá Mundo!';
-'''
+```
+Concatenação de variáveis:
+```php
+	$cumprimentar = 'Olá Mundo!';
+	$textoAuxiliar = 'Tudo bem com você?';
+	echo $cumprimentar . $textoAuxiliar;
+```
 
 #### Características do PHP
 	1. Código aberto
@@ -24,6 +30,7 @@ Para imprimir mensagens utilizando a linguagem PHP, escreva:
 	- Em 2013, cerca de 75% dos sites usavam PHP
 	- O mascote do PHP é um elefante
 
-[PHP](https://www.php.net/)
+[Ir para o site do PHP](https://www.php.net/)
+[Olhar versões do PHP](https://www.php.net/downloads)
 
 Aqui terá uma imagem:
