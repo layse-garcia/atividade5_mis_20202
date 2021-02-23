@@ -30,7 +30,7 @@ Concatenação de variáveis:
 	- Em 2013, cerca de 75% dos sites usavam PHP
 	- O mascote do PHP é um elefante
 
-[Ir para o site do PHP](https://www.php.net/)
-[Olhar versões do PHP](https://www.php.net/downloads)
+-[Ir para o site do PHP](https://www.php.net/)
+-[Olhar versões do PHP](https://www.php.net/downloads)
 
 Aqui terá uma imagem:
